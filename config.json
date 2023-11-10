@@ -1,0 +1,19 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql+mysqlconnector://root:@localhost/codingking",
+        "prod_uri": "mysql://root:@localhost/codingking",
+        "fb_url": "https://www.facebook.com/",
+        "gh_url": "https://github.com/Dkd-beep",
+        "tw_url": "https://twitter.com/iamdkdofficial",
+        "blog_name": "Coding King ",
+        "gmail-user": "dkdtelegenic@gmail.com",
+        "gmail-password": "unpl kuxm dvid ecrz",
+        "about_text": "Hi my name is Dkm and I create programming tutorials and I am a good boy",
+        "no_of_posts": 2,
+        "login_img": "login.svg",
+        "admin_user": "Dkm",
+        "admin_password": "password",
+        "upload_location": "C:\\Users\\mukund\\Desktop\\Flask tut\\static\\assets\\img"
+    }
+}
